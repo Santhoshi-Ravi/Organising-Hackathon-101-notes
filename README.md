@@ -1,5 +1,5 @@
 # Organising-Hackathon-101-notes
-This repository is the summary of the talk presented by Adiya Oberai at the MLH Hackcon conference which is a guide for the best practices for organising any hackathon.
+This repository is the summary of the talk presented by Aditya Oberai at the MLH Hackcon conference which is a guide for the best practices for organising any hackathon.
 
 ## Hacking Hackathon Organizing 101 - Notes
 #### Event organised by MLH 
